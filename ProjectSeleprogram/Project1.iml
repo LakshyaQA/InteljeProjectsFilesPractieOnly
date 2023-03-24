@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://G:/selinium/lib" />
+          <root url="jar://G:/selinium/lib/async-http-client-2.12.3.jar!/" />
+          <root url="jar://G:/selinium/lib/async-http-client-netty-utils-2.12.3.jar!/" />
+          <root url="jar://G:/selinium/lib/auto-common-1.2.1.jar!/" />
+          <root url="jar://G:/selinium/lib/auto-service-1.0.1.jar!/" />
+          <root url="jar://G:/selinium/lib/auto-service-annotations-1.0.1.jar!/" />
+          <root url="jar://G:/selinium/lib/byte-buddy-1.12.22.jar!/" />
+          <root url="jar://G:/selinium/lib/checker-qual-3.12.0.jar!/" />
+          <root url="jar://G:/selinium/lib/commons-exec-1.3.jar!/" />
+          <root url="jar://G:/selinium/lib/error_prone_annotations-2.11.0.jar!/" />
+          <root url="jar://G:/selinium/lib/failsafe-3.3.0.jar!/" />
+          <root url="jar://G:/selinium/lib/failureaccess-1.0.1.jar!/" />
+          <root url="jar://G:/selinium/lib/guava-31.1-jre.jar!/" />
+          <root url="jar://G:/selinium/lib/j2objc-annotations-1.3.jar!/" />
+          <root url="jar://G:/selinium/lib/jakarta.activation-1.2.2.jar!/" />
+          <root url="jar://G:/selinium/lib/jcommander-1.82.jar!/" />
+          <root url="jar://G:/selinium/lib/jsr305-3.0.2.jar!/" />
+          <root url="jar://G:/selinium/lib/jtoml-2.0.0.jar!/" />
+          <root url="jar://G:/selinium/lib/netty-buffer-4.1.87.Final.jar!/" />
+          <root url="jar://G:/selinium/lib/netty-codec-4.1.87.Final.jar!/" />
+          <root url="jar://G:/selinium/lib/netty-codec-http-4.1.87.Final.jar!/" />
+          <root url="jar://G:/selinium/lib/netty-codec-socks-4.1.87.Final.jar!/" />
+          <root url="jar://G:/selinium/lib/netty-common-4.1.87.Final.jar!/" />
+          <root url="jar://G:/selinium/lib/netty-handler-4.1.87.Final.jar!/" />
+          <root url="jar://G:/selinium/lib/netty-handler-proxy-4.1.87.Final.jar!/" />
+          <root url="jar://G:/selinium/lib/netty-reactive-streams-2.0.4.jar!/" />
+          <root url="jar://G:/selinium/lib/netty-resolver-4.1.87.Final.jar!/" />
+          <root url="jar://G:/selinium/lib/netty-transport-4.1.87.Final.jar!/" />
+          <root url="jar://G:/selinium/lib/netty-transport-classes-epoll-4.1.87.Final.jar!/" />
+          <root url="jar://G:/selinium/lib/netty-transport-classes-kqueue-4.1.87.Final.jar!/" />
+          <root url="jar://G:/selinium/lib/netty-transport-native-unix-common-4.1.87.Final.jar!/" />
+          <root url="jar://G:/selinium/lib/opentelemetry-api-1.22.0.jar!/" />
+          <root url="jar://G:/selinium/lib/opentelemetry-api-logs-1.22.0-alpha.jar!/" />
+          <root url="jar://G:/selinium/lib/opentelemetry-context-1.22.0.jar!/" />
+          <root url="jar://G:/selinium/lib/opentelemetry-exporter-logging-1.22.0.jar!/" />
+          <root url="jar://G:/selinium/lib/opentelemetry-sdk-1.22.0.jar!/" />
+          <root url="jar://G:/selinium/lib/opentelemetry-sdk-common-1.22.0.jar!/" />
+          <root url="jar://G:/selinium/lib/opentelemetry-sdk-extension-autoconfigure-1.22.0-alpha.jar!/" />
+          <root url="jar://G:/selinium/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.22.0.jar!/" />
+          <root url="jar://G:/selinium/lib/opentelemetry-sdk-logs-1.22.0-alpha.jar!/" />
+          <root url="jar://G:/selinium/lib/opentelemetry-sdk-metrics-1.22.0.jar!/" />
+          <root url="jar://G:/selinium/lib/opentelemetry-sdk-trace-1.22.0.jar!/" />
+          <root url="jar://G:/selinium/lib/opentelemetry-semconv-1.22.0-alpha.jar!/" />
+          <root url="jar://G:/selinium/lib/reactive-streams-1.0.4.jar!/" />
+          <root url="jar://G:/selinium/lib/slf4j-api-2.0.6.jar!/" />
+          <root url="jar://G:/selinium/selenium-api-4.8.1.jar!/" />
+          <root url="jar://G:/selinium/selenium-chrome-driver-4.8.1.jar!/" />
+          <root url="jar://G:/selinium/selenium-chromium-driver-4.8.1.jar!/" />
+          <root url="jar://G:/selinium/selenium-devtools-v85-4.8.1.jar!/" />
+          <root url="jar://G:/selinium/selenium-devtools-v108-4.8.1.jar!/" />
+          <root url="jar://G:/selinium/selenium-devtools-v109-4.8.1.jar!/" />
+          <root url="jar://G:/selinium/selenium-devtools-v110-4.8.1.jar!/" />
+          <root url="jar://G:/selinium/selenium-edge-driver-4.8.1.jar!/" />
+          <root url="jar://G:/selinium/selenium-firefox-driver-4.8.1.jar!/" />
+          <root url="jar://G:/selinium/selenium-http-4.8.1.jar!/" />
+          <root url="jar://G:/selinium/selenium-ie-driver-4.8.1.jar!/" />
+          <root url="jar://G:/selinium/selenium-java-4.8.1.jar!/" />
+          <root url="jar://G:/selinium/selenium-json-4.8.1.jar!/" />
+          <root url="jar://G:/selinium/selenium-manager-4.8.1.jar!/" />
+          <root url="jar://G:/selinium/selenium-remote-driver-4.8.1.jar!/" />
+          <root url="jar://G:/selinium/selenium-safari-driver-4.8.1.jar!/" />
+          <root url="jar://G:/selinium/selenium-support-4.8.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://G:/selinium/selenium-api-4.8.1-sources.jar!/" />
+          <root url="jar://G:/selinium/selenium-chrome-driver-4.8.1-sources.jar!/" />
+          <root url="jar://G:/selinium/selenium-chromium-driver-4.8.1-sources.jar!/" />
+          <root url="jar://G:/selinium/selenium-devtools-v85-4.8.1-sources.jar!/" />
+          <root url="jar://G:/selinium/selenium-devtools-v108-4.8.1-sources.jar!/" />
+          <root url="jar://G:/selinium/selenium-devtools-v109-4.8.1-sources.jar!/" />
+          <root url="jar://G:/selinium/selenium-devtools-v110-4.8.1-sources.jar!/" />
+          <root url="jar://G:/selinium/selenium-edge-driver-4.8.1-sources.jar!/" />
+          <root url="jar://G:/selinium/selenium-firefox-driver-4.8.1-sources.jar!/" />
+          <root url="jar://G:/selinium/selenium-http-4.8.1-sources.jar!/" />
+          <root url="jar://G:/selinium/selenium-ie-driver-4.8.1-sources.jar!/" />
+          <root url="jar://G:/selinium/selenium-json-4.8.1-sources.jar!/" />
+          <root url="jar://G:/selinium/selenium-manager-4.8.1-sources.jar!/" />
+          <root url="jar://G:/selinium/selenium-remote-driver-4.8.1-sources.jar!/" />
+          <root url="jar://G:/selinium/selenium-safari-driver-4.8.1-sources.jar!/" />
+          <root url="jar://G:/selinium/selenium-support-4.8.1-sources.jar!/" />
+        </SOURCES>
+        <jarDirectory url="file://G:/selinium/lib" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
