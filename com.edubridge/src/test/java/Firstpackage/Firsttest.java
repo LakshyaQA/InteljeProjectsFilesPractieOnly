@@ -62,7 +62,7 @@ public class Firsttest {
            driver.findElement(By.xpath("//a[text()='Search']")).click();
 
            Thread.sleep(300);
-           driver.close();
+           //driver.close();
        }
 }
 
