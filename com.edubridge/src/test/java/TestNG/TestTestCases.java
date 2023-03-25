@@ -13,7 +13,7 @@ public class TestTestCases {
 
 
 @Test   //testing framework
-        public void firsttestcase1() {
+        public void Firsttestcase1() {
             ChromeOptions ops;
             ops = new ChromeOptions();
             ops.addArguments("--remote-allow-origins=*");
